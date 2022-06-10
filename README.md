@@ -1,2 +1,2 @@
 # INRIA
-Here are several scripts to analyse the transcriptions of conversations, in terms of speech rate of each speaker.
+Here is the main script, with several blocks, to preprocess and analyse the conversations, in termes of speech rate, among other things.
